@@ -1,6 +1,5 @@
 # Hi there, I'm [Евгений](https://github.com/Gaztechica) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-###  Я QA Enginner и Занимаюсь версткой сайтов на 
-HTML и CSS
+###  Я QA Enginner и Занимаюсь версткой сайтов на HTML и CSS
 
 ##  Что умею:
    - Умею составлять классные тест-планы;
@@ -14,7 +13,7 @@ HTML и CSS
 
 
 ## Портфолио 
-  -   [Mind maps](https://miro.com/app/board/uXjVPDAAec4=/)
+  -   [Mind maps](https://)
   
 
 ## Инструменты и технологии
