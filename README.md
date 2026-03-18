@@ -6,11 +6,12 @@
    - Создаю детальные баг-репорты;
    - Разбираюсь в HTTP и REST API;
    - Пишу простые SQL запросы к БД (умею SELECT и JOIN);
-   - Есть опыт работы с тасктрекером: Trello, Jira? Test IT и Yandex Tracker;
+   - Есть опыт работы с тасктрекером: Trello, Jira, Test IT и Yandex Tracker;
    - Работаю с postman: могу создать и пошерить коллекцию запросов и использовать разные environment;
    - Работаю с charles: применяю breakpoints, map local, map remote и rewrite;
-   - Работаю с devtools: смотрю состав запросов network, меняю куки и тротлю интернет;
-
+   - Работаю с devtools: смотрю состав запросов network;
+<-- - Работаю с devtools: смотрю состав запросов network, меняю куки и тротлю интернет;
+-->
 
 ## Портфолио 
   -   [Mind maps](https://)
